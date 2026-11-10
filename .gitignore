@@ -1,0 +1,4 @@
+SETUP-LOG.md
+.memory/
+catalog-store/**/node_modules/
+catalog-store/**/dist/
